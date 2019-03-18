@@ -16,7 +16,7 @@ deploy:
     skip-cleanup: true
     github-token: $GITHUB_TOKEN
     local-dir: dist/upload
-    repo: comet-GmbH.github.io
+    repo: comet-GmbH/comet-GmbH.github.io
     target-branch: lora-app-server
     on:
       tags: true
