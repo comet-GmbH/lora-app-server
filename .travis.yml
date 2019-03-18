@@ -17,7 +17,8 @@ deploy:
     github-token: $GITHUB_TOKEN
     local-dir: dist/upload
     repo: comet-GmbH/comet-GmbH.github.io
-    target-branch: lora-app-server
+    target-branch: master
+    keep-history: true
     on:
       tags: true
       repo: comet-GmbH/lora-app-server
