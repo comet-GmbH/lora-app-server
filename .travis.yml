@@ -21,3 +21,4 @@ deploy:
     on:
       repo: comet-GmbH/lora-app-server
       branch: test
+
