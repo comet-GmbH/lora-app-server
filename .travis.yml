@@ -19,5 +19,6 @@ deploy:
     repo: comet-GmbH.github.io
     target-branch: lora-app-server
     on:
+      tags: true
       repo: comet-GmbH/lora-app-server
       branch: pln
