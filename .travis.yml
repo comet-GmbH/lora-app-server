@@ -20,5 +20,4 @@ deploy:
     target-branch: lora-app-server
     on:
       repo: comet-GmbH/lora-app-server
-      branch: test
-
+      branch: pln
